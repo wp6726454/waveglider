@@ -1,2 +1,2 @@
 # waveglider
-some code for wave glider  motion planing, heading control, conmunication
+some code for wave glider  motion planing, heading control, communication
